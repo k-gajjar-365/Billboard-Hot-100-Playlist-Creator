@@ -22,11 +22,13 @@ A Spotify Developer Account with API credentials (CLIENT_ID, CLIENT_SECRET).
 - Clone the repository:
 
 -> git clone https://github.com/yourusername/billboard-spotify-playlist.git
+
 -> cd billboard-spotify-playlist
 
  - Set up environment variables for Spotify API authentication:
 
 -> export CLIENT_ID="your_client_id"
+
 -> export CLIENT_SECRET="your_client_secret"
 
 -> Enter a date (YYYY-MM-DD), and the playlist will be created automatically in your Spotify account.
