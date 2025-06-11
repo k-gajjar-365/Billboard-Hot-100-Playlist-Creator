@@ -41,4 +41,6 @@ Modify the user authentication section to match your Spotify username.
 
 If some songs are missing, it means Spotify's library does not contain an exact match.
 
+You can refer [Spotipy Documentation](https://spotipy.readthedocs.io/en/2.25.1/) to configure [Spotify Developer Account](https://developer.spotify.com/).
+
 
